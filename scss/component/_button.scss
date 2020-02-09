@@ -1,0 +1,29 @@
+.btn {
+  margin-top: 15px;
+  width: 100%;
+  color: #fff;
+  border: none;
+  padding: 10px 0;
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+
+.default {
+  background-color: $base;
+}
+
+.error {
+  background-color: $negative;
+}
+
+.info {
+  background-color: #927bc1;
+}
+
+.success {
+  background-color: $positive;
+}
+
+.warning {
+  background-color: $neutral;
+}
